@@ -105,6 +105,7 @@ section {
 i:hover{
   transform: translateY(-2.5px);
   transition-duration: 0.15s;
+  color: #CFB17B;
 } 
 
 #services {
